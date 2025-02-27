@@ -1,7 +1,7 @@
 # Splunk .conf 2024 Session Resources  
 ## Session ID: DEV1351C  
 ### Session Title: Harnessing Multimodal Data for Enhanced Splunk Analytics  
-#### Authors Anthony Giallombardo & Russell Barber
+**Authors:** Anthony Giallombardo & Russell Barber
 
 **Session Type:** Interactive Workshop 
 
